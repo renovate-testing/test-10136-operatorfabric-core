@@ -14,7 +14,7 @@
     "enabled": false
   },
   "gradle-lite": {
-    "fileMatch": ['(^|/)versions.properties$', '(^|/)gradle.properties$', '\\.gradle(\\.kts)?$']
+    "fileMatch": ["(^|/)versions.properties$", "(^|/)gradle.properties$", "\\.gradle(\\.kts)?$"]
   },
   "docker-compose": { "enabled": false },
   "dockerfile": { "enabled": false },
