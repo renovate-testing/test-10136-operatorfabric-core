@@ -15,5 +15,9 @@
   },
   "gradle-lite": {
     "fileMatch": ["versions.properties"]
-  }
+  },
+  "docker-compose": { "enabled": false },
+  "dockerfile": { "enabled": false },
+  "gradle-wrapper": { "enabled": false },
+  "sbt": { "enabled": false }
 }
